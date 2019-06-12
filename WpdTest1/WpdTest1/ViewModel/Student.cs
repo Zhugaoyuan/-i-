@@ -11,5 +11,7 @@ namespace WpdTest1.ViewModel
         public int Id { get; set; }
         public string Name { get; set; }
         public Boolean Sex { get; set; }
+        public int sdas { get; set; }
+        public int g{ get; set; }
     }
 }
